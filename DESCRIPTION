@@ -1,4 +1,4 @@
-Package: lockedatapkg
+Package: rhubpkgdown
 Title: Theme package for pkgdown
 Version: 0.0.1
 Authors@R: person("Steph", "Locke", email = "steph@itsalocke.com", role = c("aut", "cre"))
